@@ -31,3 +31,8 @@ a.sitetitle {
     margin: 0;
     padding: 0;
 }
+.myMenu li {
+    position: relative;
+    float: left;
+    display: block;
+}
