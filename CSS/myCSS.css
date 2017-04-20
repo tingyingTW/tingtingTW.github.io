@@ -54,3 +54,10 @@ a.sitetitle {
     vertical-align: middle;
     padding: 0 10px;
 }
+
+#mainContent {
+    width: 1015px;
+    margin: 0 auto;
+    clear: both;
+    padding: 5px 10px 0;
+}
