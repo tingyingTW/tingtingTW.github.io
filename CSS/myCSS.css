@@ -97,3 +97,9 @@ footer {
     background: #fff;
     width: 100%;
 }
+
+.col_4 {
+    width: 180px;
+    float: left;
+    margin: 0 30px;
+}
