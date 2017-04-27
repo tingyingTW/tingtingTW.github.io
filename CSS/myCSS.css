@@ -85,3 +85,15 @@ a.sitetitle {
 .clear{
     clear:both;
 }
+
+#myFooter {
+    width: 980px;
+    margin: 0 auto;
+    padding: 40px 10px;
+}
+
+footer {
+    clear: both;
+    background: #fff;
+    width: 100%;
+}
