@@ -34,20 +34,22 @@ footer {
 }
 
 @keyframes myAnimateDiv{
-    0% {transform: rotate(0deg);left:-100px;}
-   10% {transform: rotate(0deg);left:0px;background: #41ecd5;}
-   15% {transform: rotate(0deg);background: #03bd57;}
-   25% {transform: rotate(20deg);}
-   30% {transform: rotate(0deg);left:400px;}
-   40% {transform: scale(1.5,1.5);left:400px;}
-   46% {transform: scale(1,1);left:400px;}
-   50% {transform: rotate(0deg);left:400px;}
-   60% {transform: rotate(360deg);left: 800px;background: #f36e6e;}
-   65% {transform: rotate(350deg);left:800px;}
-   70% {transform: rotate(360deg);left:800px;}
-   75% {transform: rotate(370deg);left:800px;}
-   80% {transform: rotate(360deg);left: 800px;background: #8b4bf3;}
-   90% {transform: rotate(0deg);left: 400px;background: #f154b9;}
-   95% {transform: rotate(-20deg);left:400px;}
+    0% {transform: rotate(0deg);left: -200px;}
+   10% {transform: rotate(10deg);left:0px;background: #41ecd5;}
+   15% {transform: rotate(360deg);}
+   25% {transform: rotate(0deg);}
+   30% {transform: rotate(10deg);left:400px;}
+   35% {transform: rotate(0deg);}
+   40% {transform: rotate(0deg);left:400px;}
+   46% {transform: rotate(360deg);left:400px;}
+   50% {transform: rotate(0deg);left: 400px;}
+   55% {transform: scale(1.2,1.2);left: 300px;background: #bc02c3;}
+   60% {transform: rotate(0deg);left: 300px;background: #fd5ace;}
+   65% {transform: rotate(350deg);left: 800px;}
+   70% {transform: rotate(10deg);left:800px;}
+   75% {transform: scale(1.2,1.2);left: 800px;}
+   80% {transform: rotate(360deg);left: 900px;background: #8b4bf3;}
+   90% {transform: rotate(350deg);background: rgb(0, 181, 1);}
+   95% {transform: rotate(360deg);left:400px;}
   100% {transform: rotate(0deg);left:-100px;}
 }
